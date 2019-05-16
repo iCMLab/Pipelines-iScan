@@ -1,2 +1,2 @@
 # Pipelines-iScan
-Exploring Global Screening Array v2.0
+Exploring Illumina Global Screening Array v2.0
